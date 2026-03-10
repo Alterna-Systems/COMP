@@ -15,13 +15,13 @@ This is not theoretical. It is grounded in analysis of a real, published ISA.
 
 ## Read in this order
 
-### 1. [`SEAM_DISCLOSURE.md`](./SEAM_DISCLOSURE.md)
+### 1. [`DISCLOSURE.md`](./DISCLOSURE.md)
 **Start here.** The security disclosure. Four threat vectors. Why post-quantum cryptography does not solve this problem. Why the endpoint assumption has already collapsed.
 
-### 2. [`accurisc_disclosure.md`](./accurisc_disclosure.md)
+### 2. [`ARCHITECTURE.md`](./ARCHITECTURE.md)
 The architectural research underlying the disclosure. How the AccuRISC ISA's implicit accumulator slot creates a designed seam at the classical-quantum boundary. Six research runs. Prior art acknowledged.
 
-### 3. [`AccuRISC_ISA.pdf`](./AccuRISC_ISA.pdf)
+### 3. [`CSE 141L Milestone 3 + updated 1,2.pdf`](./CSE 141L Milestone 3 + updated 1,2.pdf)
 The source ISA specification. Primary evidence. Read sections on the accumulator register and pipeline staging.
 
 ### 4. [`assembler.cpp`](./assembler.cpp)
