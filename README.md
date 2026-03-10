@@ -1,6 +1,8 @@
 # AccuRISC / Alterna Systems COMP Disclosure
 _Accumulator RISC, or accurate risk? The founding research for Alterna's 'Classical Observer of quantum-Mechanical Parallelism'._
+
 **Roxy Alessandra Williams-Lalonde | Alterna Systems LLC**
+
 *Published March 10, 2026*
 
 ---
