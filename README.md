@@ -33,7 +33,7 @@ The reference assembler, patched for cross-platform portability. Included as pro
 
 ## The one-paragraph version
 
-Quantum computing systems require an AI mediator to manage the abstraction boundary between classical and quantum hardware. That mediator has access to pre-measurement quantum states — upstream of any encryption. Post-quantum cryptography (PQC) secures the channel. It does not secure the endpoint. The endpoint is the seam. Current security architecture for classical-quantum hybrid systems does not account for this. This disclosure names it.
+Theoretical quantum computing systems that would use this methodology require an AI mediator to manage the abstraction boundary between classical and quantum hardware. That mediator has access to pre-measurement quantum states — upstream of any encryption. Post-quantum cryptography (PQC) secures the channel. It does not secure the endpoint. The endpoint is the seam. Current security architecture for classical-quantum hybrid systems does not account for this. This disclosure names it.
 
 ---
 
