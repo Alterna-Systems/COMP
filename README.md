@@ -11,7 +11,7 @@ _Accumulator RISC, or accurate risk? The founding research for Alterna's 'Classi
 
 This repository contains a security disclosure and supporting research documenting a structural vulnerability in classical-quantum hybrid computing systems where AI pipeline mediators operate at the abstraction boundary between classical and quantum hardware.
 
-This is not theoretical. It is grounded in analysis of a real, published ISA.
+This is theoretical, but only insofar as implementation; it is grounded in analysis of a real, published ISA, and we have immediate plans to build the necessary hardware.
 
 ---
 
